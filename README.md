@@ -18,3 +18,8 @@ Pertemuan 3 - Work with the Android Framework and Control Flow
 * Pengenalan OOP dasar untuk java
 * Membuat aplikasi sederhana Score counter
 * Pengenalan Android lifecycle
+
+Pertemuan 4 - Intent
+===
+* Pengenalan Intent
+* Penggunaan Intent
